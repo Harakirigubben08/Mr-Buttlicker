@@ -4,3 +4,5 @@ if namn == "kenneth":
     print("ratt")
 else:
     print("fel")
+
+print("hej")
